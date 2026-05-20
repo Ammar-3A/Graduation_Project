@@ -82,7 +82,7 @@ The system follows a client-server architecture:
 
 ## Contributors
 
-### Core Development Team
+### Code Development Team
 - **Hisham Alahmdi** — Frontend Development
 - **Yousef Alqrafi** — Backend Development
 - **Ammar Almughamisi** — AI Integration & Conversational Agent Development
