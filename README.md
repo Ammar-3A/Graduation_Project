@@ -40,6 +40,10 @@ The platform focuses on creating a trusted university-exclusive marketplace that
 - MCP (Model Context Protocol)
 - Large Language Models (LLMs)
 
+## Installation
+
+- Installation guide is currently under preparation and will be included in the next release of this repository.
+
 ---
 
 ## System Architecture
